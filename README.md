@@ -1,0 +1,2 @@
+- Rock Paper Scissors project from TOP foundations JavaScript section.
+- I will only focus on JS, which means the style of this project won't be far from perfect.
